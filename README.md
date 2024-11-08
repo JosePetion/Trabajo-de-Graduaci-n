@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="example_images/logo_facultad_ingenieria.webp" width="33%" alt="Imagen 1"/>
+  <img src="https://biodiversidad.gt/portal/images/layout/UVG_logo.png" width="33%" alt="Imagen 1"/>
   <img src="example_images/logotipo-uvg_thumb2x.webp" width="33%" alt="Imagen 2"/>
 </p>
+
 # Título del Trabajo
 
 ## Introducción y Descripción
