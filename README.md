@@ -1,7 +1,7 @@
 # Título del Trabajo
 
 <p align="center">
-  <img src="images/imagen1.png" width="33%" alt="Imagen 1"/>
+  <img src="example_images/logo_facultad_ingenieria.webp" width="33%" alt="Imagen 1"/>
   <img src="images/imagen2.png" width="33%" alt="Imagen 2"/>
 </p>
 
