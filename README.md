@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 100ppx;">
+<div style="display: flex; align-items: center; justify-content: center; height: 100px;">
   <img src="https://biodiversidad.gt/portal/images/layout/UVG_logo.png" width="33%" alt="Imagen 1"/>
   <img src="https://res.cloudinary.com/webuvg/image/upload/f_auto,q_auto,w_329,c_scale,fl_lossy,dpr_2.63/v1570028287/WEB/Nosotros/Imagen%20Institucional/Sub-logotipos%20UVG/Logo%20ING/logo_facultad_ingenieria.png" width="33%" alt="Imagen 2"/>
 </div>
