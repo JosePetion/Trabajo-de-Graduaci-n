@@ -30,7 +30,7 @@ Los algoritmos genéticos son estructuras que modelan la evolución genética, d
 El proyecto se baso en los siguientes puntos:
 
 1. **Validación de estructura algorítmo genético**
-En esta implementación se validó la estructura principal de un algorítmo genético. El codigo se basó en una implementación para optimizar funciones de costo y funciones de superficies tridimesionales. Para esta parte consultar el codigo de referencia en la carpeta [hola](.//Codigo%20MATLAB/AG_Antecedentes) para optimización de funciones de costo y [](./Codigo MATLAB/SurfMaxMin_GA/) para maximizar funciones multi-variable.
+En esta implementación se validó la estructura principal de un algorítmo genético. El codigo se basó en una implementación para optimizar funciones de costo y funciones de superficies tridimesionales. Para esta parte consultar el codigo de referencia en La [carpeta 1](./Codigo%20MATLAB/AG_Antecedentes) para optimización de funciones de costo y [carpeta 2](./Codigo%20MATLAB/SurfMaxMin_GA/) para maximizar funciones multi-variable.
 **2. Implementación en búsqueda de trayectorias 2D**
 **3. Implementación en búsqueda de trayectorias 3D**
 **4. Implementación en búsqueda de Filtros para segementación de imágenes**
