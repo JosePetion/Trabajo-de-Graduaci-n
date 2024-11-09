@@ -34,6 +34,7 @@ En esta implementación se validó la estructura principal de un algorítmo gen�
 
 2. **Implementación en búsqueda de trayectorias 2D**
 Esta impletanción se trata de buscar la mejor trayectoria libre de obstáculos en un mapa 2D. Los obstáculos fueron creados como objetos cilíndricos en un mapa n x m, asumiendo una ruta desde el punto de inicio hasta el punto de final. Este algorítmo puede econtrarse en la [carpeta 4](./Codigo%20MATLAB/Pathplanning_GA).
+
 ![img2](example_images/map1_p1.png)
 
 3.  **Implementación en búsqueda de trayectorias 3D** 
