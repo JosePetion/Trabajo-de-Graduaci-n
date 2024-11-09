@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 200;">
-  <img src="https://biodiversidad.gt/portal/images/layout/UVG_logo.png" width="50%" alt="Imagen 1"/>
+<div style="display: flex; align-items: center; justify-content: center; height: 100;">
+  <img src="https://biodiversidad.gt/portal/images/layout/UVG_logo.png" width="100%" alt="Imagen 1"/>
 </div>
 
 # Evaluación e implementación de algoritmos genéticos para aplicaciones en robótica y otras áreas de Ingeniería Mecatrónica
