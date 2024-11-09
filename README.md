@@ -50,5 +50,4 @@ Por último la implementación en procesamiento de imagenes consiste en la búsq
 - Los algoritmos demostraron ser eficientes e implementables en las areas establecidas. 
 - Se valido la estructura general de los algoritmos genéticos. 
 - Se desarrollaron las simulaciones realistas donde se aplican los algoritmos genéticos. 
-![Imagen de Conclusiones](images/imagen_conclusiones.png)
 
